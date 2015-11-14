@@ -1,0 +1,4 @@
+c:\users\filmee24\documents\visual studio 2015\Projects\System.IO.BinaryExtensions\System.IO.BinaryExtensions\bin\Debug\System.IO.BinaryExtensions.dll
+c:\users\filmee24\documents\visual studio 2015\Projects\System.IO.BinaryExtensions\System.IO.BinaryExtensions\bin\Debug\System.IO.BinaryExtensions.pdb
+c:\users\filmee24\documents\visual studio 2015\Projects\System.IO.BinaryExtensions\System.IO.BinaryExtensions\obj\Debug\System.IO.BinaryExtensions.dll
+c:\users\filmee24\documents\visual studio 2015\Projects\System.IO.BinaryExtensions\System.IO.BinaryExtensions\obj\Debug\System.IO.BinaryExtensions.pdb

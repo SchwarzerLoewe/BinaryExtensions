@@ -1,0 +1,8 @@
+c:\users\filmee24\documents\visual studio 2015\Projects\System.IO.BinaryExtensions\Tests\bin\Debug\Tests.dll
+c:\users\filmee24\documents\visual studio 2015\Projects\System.IO.BinaryExtensions\Tests\bin\Debug\Tests.pdb
+c:\users\filmee24\documents\visual studio 2015\Projects\System.IO.BinaryExtensions\Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\filmee24\documents\visual studio 2015\Projects\System.IO.BinaryExtensions\Tests\bin\Debug\System.IO.BinaryExtensions.dll
+c:\users\filmee24\documents\visual studio 2015\Projects\System.IO.BinaryExtensions\Tests\bin\Debug\System.IO.BinaryExtensions.pdb
+c:\users\filmee24\documents\visual studio 2015\Projects\System.IO.BinaryExtensions\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+c:\users\filmee24\documents\visual studio 2015\Projects\System.IO.BinaryExtensions\Tests\obj\Debug\Tests.dll
+c:\users\filmee24\documents\visual studio 2015\Projects\System.IO.BinaryExtensions\Tests\obj\Debug\Tests.pdb
