@@ -6,3 +6,12 @@ c:\users\filmee24\documents\visual studio 2015\Projects\System.IO.BinaryExtensio
 c:\users\filmee24\documents\visual studio 2015\Projects\System.IO.BinaryExtensions\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
 c:\users\filmee24\documents\visual studio 2015\Projects\System.IO.BinaryExtensions\Tests\obj\Debug\Tests.dll
 c:\users\filmee24\documents\visual studio 2015\Projects\System.IO.BinaryExtensions\Tests\obj\Debug\Tests.pdb
+C:\Users\chris\Documents\GitHub\BinaryExtensions\Tests\bin\Debug\Tests.dll
+C:\Users\chris\Documents\GitHub\BinaryExtensions\Tests\bin\Debug\Tests.pdb
+C:\Users\chris\Documents\GitHub\BinaryExtensions\Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\chris\Documents\GitHub\BinaryExtensions\Tests\bin\Debug\System.IO.BinaryExtensions.dll
+C:\Users\chris\Documents\GitHub\BinaryExtensions\Tests\bin\Debug\System.IO.BinaryExtensions.pdb
+C:\Users\chris\Documents\GitHub\BinaryExtensions\Tests\bin\Debug\de\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\chris\Documents\GitHub\BinaryExtensions\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\GitHub\BinaryExtensions\Tests\obj\Debug\Tests.dll
+C:\Users\chris\Documents\GitHub\BinaryExtensions\Tests\obj\Debug\Tests.pdb

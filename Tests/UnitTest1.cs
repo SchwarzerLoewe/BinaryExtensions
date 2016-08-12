@@ -2,6 +2,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.IO;
 using System.IO.BinaryExtensions;
+using System.Numerics;
 
 namespace Tests
 {
@@ -28,7 +29,14 @@ namespace Tests
                 var s = bw.ReadStruct<S>();
             }
         }
-        
+
+        [TestMethod]
+        public void BigDecimal_Test()
+        {
+            var d = new BigDecimal(new BigInteger(decimal.MaxValue), int.MaxValue);
+            var p = BigDecimal.Parse(d.ToString());
+        }
+
         public struct S
         {
             public int hello;

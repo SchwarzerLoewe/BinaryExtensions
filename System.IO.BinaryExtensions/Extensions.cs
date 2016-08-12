@@ -1,4 +1,5 @@
-﻿using System.Runtime.InteropServices;
+﻿using System.Numerics;
+using System.Runtime.InteropServices;
 
 namespace System.IO.BinaryExtensions
 {
@@ -100,5 +101,45 @@ namespace System.IO.BinaryExtensions
             return new Version(br.ReadInt16(), br.ReadInt16(), br.ReadInt16(), br.ReadInt16());
         }
 
+        public static void Write(this BinaryWriter bw, BigInteger bi)
+        {
+            var buff = bi.ToByteArray();
+
+            bw.Write(buff.Length);
+            bw.Write(buff);
+        }
+        public static BigInteger ReadBigInteger(this BinaryReader br)
+        {
+            var c = br.ReadInt32();
+            var buff = br.ReadBytes(c);
+
+            return new BigInteger(buff);
+        }
+
+        public static void Write(this BinaryWriter bw, BigDecimal bi)
+        {
+            bw.Write(bi.Mantissa);
+            bw.Write(bi.Exponent);
+        }
+        public static BigDecimal ReadBigDecimal(this BinaryReader br)
+        {
+            var man = br.ReadBigInteger();
+            var exp = br.ReadInt32();
+
+            return new BigDecimal(man, exp);
+        }
+
+        public static void Write(this BinaryWriter bw, Complex bi)
+        {
+            bw.Write(bi.Real);
+            bw.Write(bi.Imaginary);
+        }
+        public static Complex ReadComplex(this BinaryReader br)
+        {
+            var real = br.ReadDouble();
+            var imaginary = br.ReadDouble();
+            
+            return new Complex(real, imaginary);
+        }
     }
 }

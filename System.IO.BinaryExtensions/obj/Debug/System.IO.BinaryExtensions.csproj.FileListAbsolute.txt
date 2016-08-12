@@ -2,3 +2,8 @@ c:\users\filmee24\documents\visual studio 2015\Projects\System.IO.BinaryExtensio
 c:\users\filmee24\documents\visual studio 2015\Projects\System.IO.BinaryExtensions\System.IO.BinaryExtensions\bin\Debug\System.IO.BinaryExtensions.pdb
 c:\users\filmee24\documents\visual studio 2015\Projects\System.IO.BinaryExtensions\System.IO.BinaryExtensions\obj\Debug\System.IO.BinaryExtensions.dll
 c:\users\filmee24\documents\visual studio 2015\Projects\System.IO.BinaryExtensions\System.IO.BinaryExtensions\obj\Debug\System.IO.BinaryExtensions.pdb
+C:\Users\chris\Documents\GitHub\BinaryExtensions\System.IO.BinaryExtensions\bin\Debug\System.IO.BinaryExtensions.dll
+C:\Users\chris\Documents\GitHub\BinaryExtensions\System.IO.BinaryExtensions\bin\Debug\System.IO.BinaryExtensions.pdb
+C:\Users\chris\Documents\GitHub\BinaryExtensions\System.IO.BinaryExtensions\obj\Debug\System.IO.BinaryExtensions.csprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\GitHub\BinaryExtensions\System.IO.BinaryExtensions\obj\Debug\System.IO.BinaryExtensions.dll
+C:\Users\chris\Documents\GitHub\BinaryExtensions\System.IO.BinaryExtensions\obj\Debug\System.IO.BinaryExtensions.pdb

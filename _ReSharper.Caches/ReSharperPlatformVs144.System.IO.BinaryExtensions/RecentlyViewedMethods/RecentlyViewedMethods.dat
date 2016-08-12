@@ -1,0 +1,13 @@
+﻿<RecentlyViewedMethods>
+  <RecentlyViewedMethods>
+    <RecentMethod id="b968236a-efcf-4baa-8535-d3597f3608e6%28Tests%29-26FE61EE/M%3ATests.UnitTest1.BigDecimal_Test" />
+    <RecentMethod id="7254e6fc-c2bb-4fc7-919c-84ffad20193c%28System.IO.BinaryExtensions%29-8A687AB1/M%3ASystem.IO.BinaryExtensions.BigDecimal.ToString" />
+    <RecentMethod id="7254e6fc-c2bb-4fc7-919c-84ffad20193c%28System.IO.BinaryExtensions%29-8A687AB1/M%3ASystem.IO.BinaryExtensions.BigDecimal.Parse%28System.String%29" />
+    <RecentMethod id="7254e6fc-c2bb-4fc7-919c-84ffad20193c%28System.IO.BinaryExtensions%29-8A687AB1/M%3ASystem.IO.BinaryExtensions.Extensions.ReadBigDecimal%28System.IO.BinaryReader%29" />
+    <RecentMethod id="7254e6fc-c2bb-4fc7-919c-84ffad20193c%28System.IO.BinaryExtensions%29-8A687AB1/M%3ASystem.IO.BinaryExtensions.Extensions.Write%28System.IO.BinaryWriter%2CSystem.IO.BinaryExtensions.BigDecimal%29" />
+    <RecentMethod id="7254e6fc-c2bb-4fc7-919c-84ffad20193c%28System.IO.BinaryExtensions%29-8A687AB1/M%3ASystem.IO.BinaryExtensions.Extensions.Write%28System.IO.BinaryWriter%2CSystem.Numerics.Complex%29" />
+    <RecentMethod id="7254e6fc-c2bb-4fc7-919c-84ffad20193c%28System.IO.BinaryExtensions%29-8A687AB1/M%3ASystem.IO.BinaryExtensions.Extensions.Write%28System.IO.BinaryWriter%2CSystem.Numerics.BigInteger%29" />
+    <RecentMethod id="7254e6fc-c2bb-4fc7-919c-84ffad20193c%28System.IO.BinaryExtensions%29-8A687AB1/M%3ASystem.IO.BinaryExtensions.Extensions.ReadBigInteger%28System.IO.BinaryReader%29" />
+    <RecentMethod id="7254e6fc-c2bb-4fc7-919c-84ffad20193c%28System.IO.BinaryExtensions%29-8A687AB1/M%3ASystem.IO.BinaryExtensions.Extensions.ReadStruct%60%601%28System.IO.BinaryReader%29" />
+  </RecentlyViewedMethods>
+</RecentlyViewedMethods>
